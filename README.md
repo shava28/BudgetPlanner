@@ -1,2 +1,2 @@
-# BudgetPlanner
-Java application to track monthly  budget 
+# Machine Learning demos
+
